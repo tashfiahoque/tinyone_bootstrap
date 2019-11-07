@@ -1,0 +1,161 @@
+/* font-family: 'PT Sans', sans-serif;*/
+body{
+    font-family: 'PT Sans', sans-serif;
+    color: #010101;
+}
+/* header start */
+header{
+    padding: 15px 0;
+    background-color: #fcdb00;
+}
+.menu ul li a{
+    font-weight: 700;
+    font-size: 22px;
+    color: #010101 !important;
+    padding: 0 40px !important;
+    transition: 0.5s;
+}
+.menu ul li:last-child a{
+    padding-right: 0  !important;
+}
+.menu ul li a:hover{
+    color: #fff !important;
+}
+/* header end */
+/* slider start */
+.slider{
+    background-color: #fcdb00;
+    padding-bottom: 100px;
+}
+.s_content{
+    margin-top: 60px;
+}
+.s_content h1{
+    font-weight: 700;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.s_content h2{
+    font-weight: 400;
+    font-size: 20px;
+    color: #313841;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    margin-bottom: 15px;
+}
+.s_content p{
+    font-size: 16px;
+    color: #555555;
+    word-spacing: 1px;
+}
+.font li{
+    font-size: 42px;
+    margin-right: 35px !important;
+}
+.cid{
+    bottom: -75px;
+}
+.cid li{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+/* slider end */
+/* feature start */
+.feature{
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+.c_title{
+    margin-bottom: 80px;
+}
+.c_h1{
+    font-weight: 700;
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+.c_p{
+    font-size: 20px;
+    color: #313841;
+    letter-spacing: 1.25px;
+    margin-bottom: 15px;
+}
+.media{
+    margin-bottom: 50px;
+}
+.icon{
+    padding-right: 30px;
+    font-size: 38px;
+}
+h5{
+    font-weight: 400;
+    font-size: 22px;
+    
+}
+.m_p{
+    font-size: 16px;
+    color: #898989;
+    letter-spacing: 1.5px;
+}
+/* feature end */
+/* contact start */
+.contact{
+    background-color: #010101;
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+.yellow{
+    color: #fcdb00;
+}
+.ash{
+    color: #898989;
+}
+form{
+    margin-bottom: 60px;
+}
+.email_form{
+    height: 50px;
+    font-size: 16px;
+    color: #898989;
+}
+.btn_form{
+    height: 50px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #010101;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #fcdb00;
+}
+.font1{
+    padding: 0 5px;
+    color: #fcdb00;
+    font-size: 42px;
+}
+/* contact end */
+/* footer start */
+footer{
+    background-color: #010101;
+    padding-top: 80px;
+    padding-bottom: 100px;
+    color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+}
+address{
+    margin-left: 10px;
+}
+address a{
+    color: #fff !important;
+}
+.list{}
+.list ul{}
+.list ul li{
+    list-style: none;
+}
+.list ul li a{
+    color: #fff !important;
+    font-weight: 400;
+    font-size: 16px;
+}
+/* footer end */
